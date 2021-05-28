@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+My name is Bang, this is my company Github's account. 
+
+📫 How to reach me: 
+
+- Github: https://github.com/dinhnhatbang
+
+
+
+
 <!--
 **bangdinhnfq/bangdinhnfq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
