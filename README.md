@@ -2,9 +2,7 @@
 
 My name is Bang, this is my company Github's account. 
 
-📫 How to reach me: 
-
-- Github: https://github.com/dinhnhatbang
+📫 How to reach me https://github.com/dinhnhatbang
 
 
 
